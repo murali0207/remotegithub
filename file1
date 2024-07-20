@@ -3,11 +3,12 @@ new line added on dev branch
 added second line on dev
 added remotley github
 adding newline dev1 branch
-added from master clone master 
-git bash 
-adeed second line git bash
-hi
-hellogi
-more one
-extra
 hi bros ho:w
+with this
+on:
+  push :
+  - branches
+  - poc
+job:
+
+
